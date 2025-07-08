@@ -1,0 +1,14 @@
+git init -- > create local repo
+git status ---> get the status 
+git add . --> add all files
+git add file name ---> add particular files
+git reset file name ---> rest added files
+git add file name file name ---> add 1 or 2 files 
+git rest ---> rest entire git 
+git log ---> check the commit msg
+git config --global user.name  ---> add GitHub user login
+git config --global user.email  ---> add GitHub user email
+git commit -m "--------" ---> write the message before add
+git log --oneline ---> messages shows one by one commit
+git remote add origin https://github.com/KamalnathS1719/DevOpsMyLearningFiles.git ---> Add remote in GitHub
+git push -u origin master
