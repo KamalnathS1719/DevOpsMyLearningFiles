@@ -12,3 +12,6 @@ git commit -m "--------" ---> write the message before add
 git log --oneline ---> messages shows one by one commit
 git remote add origin https://github.com/KamalnathS1719/DevOpsMyLearningFiles.git ---> Add remote in GitHub
 git push -u origin master
+git checkout
+git branch
+git commit -a -m "---" ---> both add and message in commit
